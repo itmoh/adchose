@@ -1,2 +1,2 @@
 # adchose
-Main repository of adchose project. main idea of the project is get read of advertisement in websites.  
+Main repository of an ADchose project. The main idea of the project is to get read of the advertisement in the websites.  
